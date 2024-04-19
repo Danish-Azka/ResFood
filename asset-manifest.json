@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ResFood/static/css/main.e127c46a.css",
-    "main.js": "/ResFood/static/js/main.cd44ed67.js",
+    "main.css": "/ResFood/static/css/main.552a0c4e.css",
+    "main.js": "/ResFood/static/js/main.7d03f738.js",
     "index.html": "/ResFood/index.html",
-    "main.e127c46a.css.map": "/ResFood/static/css/main.e127c46a.css.map",
-    "main.cd44ed67.js.map": "/ResFood/static/js/main.cd44ed67.js.map"
+    "main.552a0c4e.css.map": "/ResFood/static/css/main.552a0c4e.css.map",
+    "main.7d03f738.js.map": "/ResFood/static/js/main.7d03f738.js.map"
   },
   "entrypoints": [
-    "static/css/main.e127c46a.css",
-    "static/js/main.cd44ed67.js"
+    "static/css/main.552a0c4e.css",
+    "static/js/main.7d03f738.js"
   ]
 }
